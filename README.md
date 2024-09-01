@@ -4,7 +4,7 @@
 - 📫 How to reach me: @PaKicek on Telegram or pakicek on Discord
 - 😄 Pronouns: he/him
 
-- TODO: Upload 13th, 14th and 15th works of C/C++ course (1st semester, 3-4 stream)
+- TODO: Upload more works here later
 
 <!---
 PaKicek/PaKicek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
