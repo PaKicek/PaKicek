@@ -1,4 +1,4 @@
-### Hi, I am @PaKicek 👋
+### Hi, I am PaKicek 👋
 - 🌱 Currently learning Java and Spring (and other related technologies)
 - 👯 I am currently interested in new internship offers
 - 📫 How to reach me: @PaKicek on Telegram
