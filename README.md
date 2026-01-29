@@ -10,8 +10,6 @@
 *   **Frameworks:** Spring Boot, Spring MVC, Spring Security, JUnit, Mockito, Hibernate
 *   **Databases:** PostgreSQL, MySQL, SQLite
 *   **Tools:** Git, Docker, Kafka, Prometheus, Grafana, LaTeX, Markdown
- 
-[![PaKicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakicek&show_icons=true&theme=radical)](https://github.com/pakicek/github-readme-stats)
 
 <!---
 PaKicek/PaKicek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
