@@ -6,7 +6,7 @@
 
 ### 🛠️ My technologies
 
-*   **Languages:** Java, SQL, C#, HTML, CSS, JavaScript, Python
+*   **Languages:** Java, Kotlin, SQL, C#, HTML, CSS, JavaScript, Python
 *   **Frameworks:** Spring Boot, Spring MVC, Spring Security, JUnit, Mockito, Hibernate
 *   **Databases:** PostgreSQL, MySQL, SQLite
 *   **Tools:** Git, Docker, Kafka, Prometheus, Grafana, LaTeX, Markdown
