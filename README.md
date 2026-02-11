@@ -1,5 +1,5 @@
 ### Hi, I am PaKicek 👋
-- 🌱 Currently learning Java and Spring (and other related technologies)
+- 🌱 Currently learning Kotlin (and a bit of Android development)
 - 👯 I am currently interested in new internship offers
 - 📫 How to reach me: @PaKicek on Telegram
 - 😄 Pronouns: he/him
