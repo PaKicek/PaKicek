@@ -7,9 +7,9 @@
 ### 🛠️ My technologies
 
 *   **Languages:** Java, Kotlin, SQL, C#, HTML, CSS, JavaScript, Python
-*   **Frameworks:** Spring Boot, Spring MVC, Spring Security, JUnit, Mockito, Hibernate
-*   **Databases:** PostgreSQL, MySQL, SQLite
-*   **Tools:** Git, Docker, Kafka, Prometheus, Grafana, LaTeX, Markdown
+*   **Frameworks:** Spring Boot, Spring Security, JUnit, Mockito, Hibernate, Testcontainers
+*   **Databases:** PostgreSQL, Redis, MySQL, SQLite
+*   **Tools:** Git, Docker, REST API, Kafka, gRPC, Prometheus, Grafana, Python, Markdown, LaTeX
 
 <!---
 PaKicek/PaKicek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
